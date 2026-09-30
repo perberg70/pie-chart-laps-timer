@@ -1,0 +1,5 @@
+{
+  "name": "Pie Chart Lap Timer",
+  "description": "An analog clock-style lap timer that visualizes time periods from an Excel sheet as a color-shifting pie chart. Upload your schedule and watch time unfold.",
+  "requestFramePermissions": []
+}
